@@ -1,0 +1,22 @@
+{
+  "name": "join-and",
+  "version": "1.0.0",
+  "description": "Join elements of array into a string with alternative final separator",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "keywords": [
+    "join"
+  ],
+  "author": {
+		"name": "Mike Savastano",
+    "email": "mikesavastano@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.2.0",
+    "mocha": "^8.0.1"
+  }
+}
