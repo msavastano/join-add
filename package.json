@@ -1,6 +1,6 @@
 {
   "name": "join-and",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Join elements of array into a string with alternative final separator",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "join"
   ],
   "author": {
-		"name": "Mike Savastano",
+    "name": "Mike Savastano",
     "email": "mikesavastano@gmail.com"
   },
   "license": "MIT",
