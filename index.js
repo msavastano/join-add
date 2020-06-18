@@ -10,13 +10,13 @@ const nativeJoin = Array.prototype.join
  * @returns {string} Returns the joined string.
  * @example
  *
- * _.join(['a', 'b', 'c'], '~');
+ * join(['a', 'b', 'c'], '~');
  * // => 'a~b~c'
  *
- * _.join(['a', 'b', 'c'], '~', '=');
+ * join(['a', 'b', 'c'], '~', '=');
  * // => 'a~b=c'
  */
-function join(array, separator, and) {
+function joinAnd(array, separator, and) {
   const sep = separator === null ? ',' : separator
   if (array == null) {
     return ''
@@ -28,4 +28,4 @@ function join(array, separator, and) {
   }
 }
 
-module.exports = join;
+module.exports = joinAnd;
