@@ -23,3 +23,15 @@ joinAnd(array) // => 'a,b,c'
 // less than 3 elements
 joinAnd(['b', 'c'], ', ', ' and ') // => 'b, c'
 ```
+
+## Params
+
+ **array** {Array} The array to convert
+
+ **separator** {string} The element separator.  Default or null ','
+
+ ***and** {string} if more that 2 items, element to join last two items
+
+### Returns
+
+  {string} the joined string
