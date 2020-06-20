@@ -1,6 +1,6 @@
 {
   "name": "join-and",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Join elements of array into a string with alternative final separator",
   "main": "index.js",
   "scripts": {
