@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/msavastano/join-add/compare/v2.0.1...v2.0.2) (2020-06-21)
+
+
+### Bug Fixes
+
+* add engine requirement ([c6b8db6](https://github.com/msavastano/join-add/commit/c6b8db605d285f42ccdae5ab56db365504e7e761))
+
 ### [2.0.1](https://github.com/msavastano/join-add/compare/v2.0.0...v2.0.1) (2020-06-20)
 
 ## [2.0.0](https://github.com/msavastano/join-add/compare/v1.0.7...v2.0.0) (2020-06-19)
